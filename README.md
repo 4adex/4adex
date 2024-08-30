@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Afterall we are mere explorers of infinity in the pursuit of absolute perfection ✨
 <!--
 **4adex/4adex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
